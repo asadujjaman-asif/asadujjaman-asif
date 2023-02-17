@@ -1,5 +1,3 @@
-<h1 align="center">I'm Asadujjaman Asif</h1>
-
 - 🔭 I’m currently working on **CakePHP and Riot Js**
 
 - 🌱 I’m currently learning **Django & React Js**
