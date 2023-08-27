@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on **CakePHP, Riot Js Laravel with Rest API using JS**
+- 🔭 I’m currently working on **CakePHP with Riot Js & Laravel Rest API using JS**
 
 - 🌱 I’m currently learning **Laravel & React Js**
 
