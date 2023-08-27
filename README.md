@@ -1,10 +1,10 @@
-- 🔭 I’m currently working on **CakePHP and Riot Js**
+- 🔭 I’m currently working on **CakePHP,Riot Js Laravel with Rest API using JS**
 
-- 🌱 I’m currently learning **Django & React Js**
+- 🌱 I’m currently learning **Laravel & React Js**
 
-- 👯 I’m looking to collaborate on **Web Application Design and Develop**
+- 👯 I’m looking to collaborate on **Web Application With Laravel & React**
 
-- 🤝 I’m looking for help with **Django & React Js**
+- 🤝 I’m looking for help with **Laravel & React Js**
 
 - 📫 How to reach me **az.asifislam@gmail.com**
 
